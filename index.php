@@ -176,7 +176,7 @@
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Capa template para <a href="https://github.com/vickieww/Paginas-de-Login-e-Cadastro" class="text-white">Repositório do projeto</a>, pela <a href="https://github.com/vickieww" class="text-white">Vitória Gabrieli, aluna de T.I.</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

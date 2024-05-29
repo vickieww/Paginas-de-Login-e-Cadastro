@@ -167,19 +167,37 @@
     </div>
   </header>
 
-  <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
-    </p>
-  </main>
+  <div class="header">
+        <h1>Login</h1>
+      </div>
+    <div class="container">
+    <form class="row g-3">
+
+          <div class="col-sm-14">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="" value="" required>
+          </div>
+
+        <div class="col-14">
+            <label for="Senha" class="form-label">Senha</label>
+            <input type="number" class="form-control" id="senha" required>
+        </div>
+
+
+            <div class="col-12">
+          <button type="submit" class="btn btn-primary">Continuar</button>
+        </div>
+        
+         
+      </form>
+    </div>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Capa template para <a href="https://github.com/vickieww/Paginas-de-Login-e-Cadastro" class="text-white">Repositório do projeto</a>, pela <a href="https://github.com/vickieww" class="text-white">Vitória Gabrieli, aluna de T.I.</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
+
