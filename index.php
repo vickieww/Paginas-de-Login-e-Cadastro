@@ -158,7 +158,7 @@
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
-      <h3 class="float-md-start mb-0">Cover</h3>
+      <h3 class="float-md-start mb-0">Projeto Escolar</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Início</a>
         <a class="nav-link fw-bold py-1 px-0" href="log.php">Login</a>
@@ -168,8 +168,8 @@
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+    <h1>Página Inicial</h1>
+    <p class="lead">Esse projeto fora realizado em sala de aula, utilizando Bootstrap e outras ferramentas. Para acessar e ter mais informações sobre a atividade acesse o link no rodapé da página ou clique no botão a seguir.</p>
     <p class="lead">
       <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
     </p>
