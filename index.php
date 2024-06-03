@@ -171,7 +171,7 @@
     <h1>Página Inicial</h1>
     <p class="lead">Esse projeto fora realizado em sala de aula, utilizando Bootstrap e outras ferramentas. Para acessar e ter mais informações sobre a atividade acesse o link no rodapé da página ou clique no botão a seguir.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
+      <a href="https://github.com/vickieww/Paginas-de-Login-e-Cadastro" class="btn btn-lg btn-light fw-bold border-white bg-white">Acesse o repositório</a>
     </p>
   </main>
 
