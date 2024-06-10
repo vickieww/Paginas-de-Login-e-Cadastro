@@ -4,8 +4,10 @@ Nessa atividade proposta em sala, fora realizada a criação de uma página de c
 ### Descrição:
 
 O Formulário de Cadastro consiste em uma série de campos de preenchimento necessários para a utilização de uma plataforma posterior em outros sites.
-[!png (tela-cadLogInicial/imgs)]
+![gif](imgs/tela-cadLogInicial.gif)
 
+Como proposto em sala de aula, a tela utilizada foi retirada do Bootstrap, como mostrado a seguir.
+![gif](imgs/tela-Bootstrap.gif)
 ### Funcionalidades:
 
 - `Campos de E-mail, senha, nome e confirmação de senha`: o site, através das funções aplicadas, possui, nas páginas de cadastro e login, campos de texto onde o usuário informará os dados necessários. (O banco de dados será aplicado mais para frente)
