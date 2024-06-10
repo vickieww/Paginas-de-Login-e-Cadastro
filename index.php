@@ -160,9 +160,9 @@
     <div>
       <h3 class="float-md-start mb-0">Projeto Escolar</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.html">Início</a>
-        <a class="nav-link fw-bold py-1 px-0" href="log.html">Login</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cad.html">Cadastre-se</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Início</a>
+        <a class="nav-link fw-bold py-1 px-0" href="log.php">Login</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cad.php">Cadastre-se</a>
       </nav>
     </div>
   </header>
